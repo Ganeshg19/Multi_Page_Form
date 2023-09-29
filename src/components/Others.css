@@ -1,0 +1,78 @@
+.select-container {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .arrow-down2 {
+    position: absolute;
+    top: 33%;
+    right: 10px;
+    /* margin-left: 10px; */
+    transform: translateY(-50%);
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #000; /* Adjust color as needed */
+    pointer-events: none;
+    /* background-color: black; */
+  }
+  
+  .others{
+    width: 210px;
+  }
+  .select-container2{
+    display: flex;
+  }
+
+  .First{
+    width: 50px;
+  }
+
+  .dropdown{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border: 1px solid grey;
+    border-radius: 5px;
+    position: absolute;
+    /* margin-top: 18px; */
+    margin-top: -20px;
+    /* position: fixed; */
+  }
+
+  .dropdown:empty{
+    border: none;
+  }
+  .dropdown-row{
+    width: 210px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    z-index: 2;
+    /* margin-top: -20px; */
+    cursor: pointer;
+    /* border: 1px solid grey; */
+    background-color: white;
+  }
+  .dropdown-row:hover{
+    background-color: #4169E1;
+    color: white;
+  }
+
+  .field{
+    /* position: fixed; */
+    position: sticky;
+  }
+
+  /* .form-control {
+    position: absolute;
+    width: 200px; /* Set your desired fixed width here */
+  /* }   */
+  
+  .form-control.field {
+    min-width: 210px; /* Set a minimum width */
+    max-width: 210px; /* Set a maximum width */
+    box-sizing: border-box; /* Include padding and border in the element's total width */
+  }

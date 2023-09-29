@@ -1,0 +1,316 @@
+[
+  {
+    "country": "USA",
+    "cities": ["New York", "Los Angeles", "Chicago"]
+  },
+  {
+    "country": "Canada",
+    "cities": ["Toronto", "Vancouver", "Montreal"]
+  },
+  {
+    "country": "France",
+    "cities": ["Paris", "Marseille", "Lyon"]
+  },
+  {
+    "country": "Australia",
+    "cities": ["Sydney", "Melbourne", "Brisbane"]
+  },
+  {
+    "country": "Japan",
+    "cities": ["Tokyo", "Osaka", "Kyoto"]
+  },
+  {
+    "country": "Germany",
+    "cities": ["Berlin", "Munich", "Hamburg"]
+  },
+  {
+    "country": "Brazil",
+    "cities": ["Sao Paulo", "Rio de Janeiro", "Brasilia"]
+  },
+  {
+    "country": "India",
+    "cities": ["Mumbai", "New Delhi", "Bangalore"]
+  },
+  {
+    "country": "Russia",
+    "cities": ["Moscow", "Saint Petersburg", "Novosibirsk"]
+  },
+  {
+    "country": "South Africa",
+    "cities": ["Johannesburg", "Cape Town", "Durban"]
+  },
+  {
+    "country": "Mexico",
+    "cities": ["Mexico City", "Guadalajara", "Monterrey"]
+  },
+  {
+    "country": "Italy",
+    "cities": ["Rome", "Milan", "Venice"]
+  },
+  {
+    "country": "Spain",
+    "cities": ["Madrid", "Barcelona", "Valencia"]
+  },
+  {
+    "country": "United Kingdom",
+    "cities": ["London", "Manchester", "Birmingham"]
+  },
+  {
+    "country": "Argentina",
+    "cities": ["Buenos Aires", "Cordoba", "Rosario"]
+  },
+  {
+    "country": "Turkey",
+    "cities": ["Istanbul", "Ankara", "Izmir"]
+  },
+  
+  {
+    "country": "Nigeria",
+    "cities": ["Lagos", "Kano", "Ibadan"]
+  },
+  {
+    "country": "Pakistan",
+    "cities": ["Karachi", "Lahore", "Islamabad"]
+  },
+  {
+    "country": "Egypt",
+    "cities": ["Cairo", "Alexandria", "Giza"]
+  },
+  
+  
+  
+  {
+    "country": "South Korea",
+    "cities": ["Seoul", "Busan", "Incheon"]
+  },
+  {
+    "country": "Ukraine",
+    "cities": ["Kyiv", "Kharkiv", "Odessa"]
+  },
+  {
+    "country": "Greece",
+    "cities": ["Athens", "Thessaloniki", "Patras"]
+  },
+  {
+    "country": "Sweden",
+    "cities": ["Stockholm", "Gothenburg", "Malmö"]
+  },
+  {
+    "country": "Switzerland",
+    "cities": ["Zurich", "Geneva", "Bern"]
+  },
+  {
+    "country": "Poland",
+    "cities": ["Warsaw", "Krakow", "Lodz"]
+  },
+  {
+    "country": "Netherlands",
+    "cities": ["Amsterdam", "Rotterdam", "The Hague"]
+  },
+  {
+    "country": "Belgium",
+    "cities": ["Brussels", "Antwerp", "Ghent"]
+  },
+  {
+    "country": "Austria",
+    "cities": ["Vienna", "Graz", "Linz"]
+  },
+  {
+    "country": "Portugal",
+    "cities": ["Lisbon", "Porto", "Braga"]
+  },
+  {
+    "country": "Norway",
+    "cities": ["Oslo", "Bergen", "Trondheim"]
+  },
+  {
+    "country": "Denmark",
+    "cities": ["Copenhagen", "Aarhus", "Odense"]
+  },
+  {
+    "country": "Finland",
+    "cities": ["Helsinki", "Espoo", "Tampere"]
+  },
+  {
+    "country": "Ireland",
+    "cities": ["Dublin", "Cork", "Galway"]
+  },
+  
+  {
+    "country": "Singapore",
+    "cities": ["Singapore City"]
+  },
+  
+  {
+    "country": "Saudi Arabia",
+    "cities": ["Riyadh", "Jeddah", "Mecca"]
+  },
+  {
+    "country": "United Arab Emirates",
+    "cities": ["Dubai", "Abu Dhabi", "Sharjah"]
+  },
+  {
+    "country": "Israel",
+    "cities": ["Tel Aviv", "Jerusalem", "Haifa"]
+  },
+  {
+    "country": "Qatar",
+    "cities": ["Doha"]
+  },
+  {
+    "country": "Kuwait",
+    "cities": ["Kuwait City"]
+  },
+  {
+    "country": "Oman",
+    "cities": ["Muscat"]
+  },
+  {
+    "country": "Bahrain",
+    "cities": ["Manama"]
+  },
+  {
+    "country": "Lebanon",
+    "cities": ["Beirut"]
+  },
+  {
+    "country": "Jordan",
+    "cities": ["Amman"]
+  },
+  {
+    "country": "Iraq",
+    "cities": ["Baghdad", "Erbil", "Basra"]
+  },
+  {
+    "country": "Iran",
+    "cities": ["Tehran", "Mashhad", "Isfahan"]
+  },
+  {
+    "country": "Syria",
+    "cities": ["Damascus", "Aleppo"]
+  },
+  {
+    "country": "Yemen",
+    "cities": ["Sana'a", "Aden"]
+  },
+  {
+    "country": "Afghanistan",
+    "cities": ["Kabul", "Herat", "Mazar-i-Sharif"]
+  },
+  {
+    "country": "Bangladesh",
+    "cities": ["Dhaka", "Chittagong", "Khulna"]
+  },
+  {
+    "country": "Sri Lanka",
+    "cities": ["Colombo", "Kandy", "Galle"]
+  },
+  {
+    "country": "Nepal",
+    "cities": ["Kathmandu", "Pokhara", "Patan"]
+  },
+  {
+    "country": "Bhutan",
+    "cities": ["Thimphu", "Phuntsholing", "Paro"]
+  },
+  {
+    "country": "Maldives",
+    "cities": ["Male"]
+  },
+  {
+    "country": "Myanmar",
+    "cities": ["Yangon", "Mandalay", "Naypyidaw"]
+  },
+  {
+    "country": "Cambodia",
+    "cities": ["Phnom Penh", "Siem Reap"]
+  },
+  {
+    "country": "Laos",
+    "cities": ["Vientiane", "Luang Prabang"]
+  },
+  {
+    "country": "Vietnam",
+    "cities": ["Ho Chi Minh City", "Hanoi", "Da Nang"]
+  },
+  {
+    "country": "Thailand",
+    "cities": ["Bangkok", "Chiang Mai", "Phuket"]
+  },
+  {
+    "country": "Malaysia",
+    "cities": ["Kuala Lumpur", "George Town", "Ipoh"]
+  },
+  
+  {
+    "country": "Indonesia",
+    "cities": ["Jakarta", "Surabaya", "Bandung"]
+  },
+  {
+    "country": "Brunei",
+    "cities": ["Bandar Seri Begawan"]
+  },
+  {
+    "country": "Philippines",
+    "cities": ["Manila", "Quezon City", "Cebu City"]
+  },
+  {
+    "country": "Timor-Leste",
+    "cities": ["Dili"]
+  },
+ 
+  {
+    "country": "Solomon Islands",
+    "cities": ["Honiara"]
+  },
+  {
+    "country": "Vanuatu",
+    "cities": ["Port Vila"]
+  },
+  {
+    "country": "Fiji",
+    "cities": ["Suva", "Nadi", "Lautoka"]
+  },
+  {
+    "country": "Tonga",
+    "cities": ["Nuku'alofa"]
+  },
+  {
+    "country": "Samoa",
+    "cities": ["Apia"]
+  },
+  {
+    "country": "Tuvalu",
+    "cities": ["Funafuti"]
+  },
+  {
+    "country": "Kiribati",
+    "cities": ["South Tarawa"]
+  },
+  {
+    "country": "Marshall Islands",
+    "cities": ["Majuro"]
+  },
+  {
+    "country": "Palau",
+    "cities": ["Ngerulmud"]
+  },
+  {
+    "country": "Micronesia",
+    "cities": ["Palikir"]
+  },
+  {
+    "country": "Nauru",
+    "cities": ["Yaren"]
+  },
+  
+  {
+    "country": "New Zealand",
+    "cities": ["Auckland", "Wellington", "Christchurch"]
+  },
+  {
+    "country": "Papua New Guinea",
+    "cities": ["Port Moresby", "Lae"]
+  }
+ 
+]
